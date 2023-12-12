@@ -1,4 +1,6 @@
 # dsc_captsoneB12_project_1
+### Sheena Patel
+________________________________________
 
 ## Project 1 Assignment:
 This project encapsulates the material we learned during quarter 1 of UCSD DSC Captsone Section B12 2023-24. This quarter we learned about Graph Neural Networks and how to capture long-range dependencies on common GNN architectures. 
@@ -15,5 +17,3 @@ This project encapsulates the material we learned during quarter 1 of UCSD DSC C
 1) Python 3
 2) Libraries listed in requirements.txt
 
-# Contributors
-1) Sheena Patel
