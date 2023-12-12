@@ -10,7 +10,7 @@ This project encapsulates the material we learned during quarter 1 of UCSD DSC C
 2. Open your terminal
 3. cd into the directory of your cloned repo. 
 4. Type  ``` pip install -r requirements.txt```. This contains all the necessary packages for running the code.
-5. Use run.py to execute the code. You can either type ```python run.py``` with not arguments (will taking 5-7 minutes to run) or ```python run.py {insert dataset --> 'cora', 'imdb', 'enzymes', or 'pascal'}``` in your terminal. The following models will run on the dataset of your selection: GCN, GIN, GAT, and Graph GPS. You can choose from 'cora', 'imdb', 'enzymes', or 'pascal' datasets to insert after the 'run.py' command and run all 4 models on.
+5. Use run.py to execute the code. You can either type ```python run.py``` with no arguments (will take 5-7 minutes to run all models on all datasets) or ```python run.py {insert dataset --> 'cora', 'imdb', 'enzymes', or 'pascal'}``` in your terminal. The following models will run on the dataset of your selection: GCN, GIN, GAT, and Graph GPS. You can choose from 'cora', 'imdb', 'enzymes', or 'pascal' datasets to insert after the 'run.py' command and run all 4 models on.
 
 
 ## Requirements
